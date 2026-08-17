@@ -1,4 +1,4 @@
 # arduino-essentials
 Compilation of basic arduino projects that I made, some have included tutorials
 
-All projects are coded by myself, if it includes AI in any step of the process I will flag it at the top in a comment
+Due to github constraints I can't show a demo of each project but the code is 100% working and the project has been tested before uploading
